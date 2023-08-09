@@ -1,9 +1,9 @@
 # Приветствую!
 
-Меня зовут Роман, я начинающий python-разработчик с Урала. 
+Меня зовут Роман, python-разработчик с Урала. 
 
 ---
-## Какие технологии я использую!
+## Какие технологии я использую.
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/framework-Django-informational?style=flat&logo=django&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/database-Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
